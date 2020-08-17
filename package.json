@@ -1,0 +1,14 @@
+{
+  "name": "tt229-bot",
+  "version": "1.0.0",
+  "description": "A twitter bot to retweet #TT229",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnaud Fèmi AKOTONOU",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
